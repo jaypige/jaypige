@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jaypige
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Web development.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: pigeonjerome01@gmail.com
+
